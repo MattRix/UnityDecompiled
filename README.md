@@ -6,5 +6,7 @@ Thanks to the community for all of your contributions over the past three years,
 
 -Matt
 
+**UPDATE: Unity has now released an [official repo of their C# source code!](https://github.com/Unity-Technologies/UnityCsReference)**
+
 
 
